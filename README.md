@@ -83,10 +83,33 @@ Use @cmd_rss_feed_generator.md to convert @<html_file>.html to a RSS feed for <b
 
 [![Star History Chart](https://api.star-history.com/svg?repos=agoramachina/rss-feeds&type=Date)](https://star-history.com/#agoramachina/rss-feeds&Date)
 
+## Zotero Integration
+
+You can trigger feed regeneration automatically when opening Zotero using the [Zotero Actions and Tags](https://github.com/windingwind/zotero-actions-tags) plugin.
+
+### Setup
+
+1. **Create a GitHub Personal Access Token**
+   - Go to https://github.com/settings/tokens
+   - Generate a new token with `repo` scope (needed to trigger workflows)
+
+2. **Configure the script**
+   - Copy `feed_generators/zotero-sync.js` to your local machine
+   - Replace `YOUR_GITHUB_TOKEN_HERE` with your token
+
+3. **Add to Zotero Actions and Tags**
+   - Install the [Actions and Tags plugin](https://github.com/windingwind/zotero-actions-tags)
+   - Add the script and configure it to run on startup or a keyboard shortcut
+
+4. **Add RSS feeds to Zotero**
+   - In Zotero: `File > New Feed > From URL`
+   - Use the raw feed URLs from the table above
+
+When triggered, the script calls the GitHub API to run the feed generator workflow, ensuring your feeds are always up to date.
+
 ## Ideas
 
 - **X RSS Feed**: Going to `x.com/{USER}/index.xml` should give an RSS feed of the user's tweets.
-- **Zotero Integration**: Write a script for the [Zotero Actions and Tags](https://github.com/windingwind/zotero-actions-tags) plugin to automatically fetch and import RSS feed items into Zotero library.
 
 ## How It Works
 
