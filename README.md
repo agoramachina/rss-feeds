@@ -107,6 +107,40 @@ You can trigger feed regeneration automatically when opening Zotero using the [Z
 
 When triggered, the script calls the GitHub API to run the feed generator workflow, ensuring your feeds are always up to date.
 
+## Adding New Feeds
+
+### Using urls.csv
+
+The `extras/urls.csv` file contains a list of blog URLs to generate feeds for. To request new feeds:
+
+1. **Add URLs to the CSV**
+   ```csv
+   html,url
+   my-blog,https://example.com/blog/
+   ```
+
+2. **Generate with Claude Code**
+   ```bash
+   # Use Claude Code to create generators for URLs in the CSV
+   claude "Create feed generators for the URLs in extras/urls.csv"
+   ```
+
+3. **Or create manually**
+   - Fetch the blog HTML and analyze its structure
+   - Create a new `feed_generators/<name>_blog.py` following existing patterns
+   - Add a Make target in `makefiles/feeds.mk`
+   - Update the README table with the new feed
+
+### Feed Generator Pattern
+
+Each generator follows this structure:
+```python
+def fetch_blog_content(url)      # HTTP request with User-Agent
+def parse_blog_html(html)        # BeautifulSoup parsing for posts
+def generate_rss_feed(posts)     # Create feed using feedgen
+def save_rss_feed(fg, name)      # Write to feeds/feed_{name}.xml
+```
+
 ## Ideas
 
 - **X RSS Feed**: Going to `x.com/{USER}/index.xml` should give an RSS feed of the user's tweets.
