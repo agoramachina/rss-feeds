@@ -1,13 +1,13 @@
-html,url
-askell,https://www.askell.blog/
-bair,https://bair.berkeley.edu/blog/
-deepmind,https://deepmind.google/blog/
-eleos,https://eleosai.org/research/
-huggingface,https://huggingface.co/blog
-interconnects,https://www.interconnects.ai/
-jack-clark,https://jack-clark.net/
-laion,https://laion.ai/blog/
-neurips,https://blog.neurips.cc/
-neuronpedia,https://www.neuronpedia.org/blog
-suleyman,https://mustafa-suleyman.ai/#writing
-transformer-circuits,https://transformer-circuits.pub/
+name,url,status,notes
+askell,https://www.askell.blog/,native_rss,https://www.askell.blog/rss/
+bair,https://bair.berkeley.edu/blog/,native_rss,https://bair.berkeley.edu/blog/feed.xml
+deepmind,https://deepmind.google/blog/,native_rss,https://deepmind.google/blog/rss.xml
+eleos,https://eleosai.org/research/,generator,feed_eleos.xml
+huggingface,https://huggingface.co/blog,native_rss,https://huggingface.co/blog/feed.xml
+interconnects,https://www.interconnects.ai/,native_rss,https://www.interconnects.ai/feed
+jack-clark,https://jack-clark.net/,native_rss,https://jack-clark.net/feed/
+laion,https://laion.ai/blog/,generator,feed_laion.xml
+neurips,https://blog.neurips.cc/,native_rss,https://blog.neurips.cc/feed/
+neuronpedia,https://www.neuronpedia.org/blog,generator,feed_neuronpedia.xml
+suleyman,https://mustafa-suleyman.ai/#writing,needs_selenium,JS-rendered site
+transformer-circuits,https://transformer-circuits.pub/,generator,feed_transformer_circuits.xml
