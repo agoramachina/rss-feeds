@@ -9,5 +9,5 @@ jack-clark,https://jack-clark.net/,native_rss,https://jack-clark.net/feed/
 laion,https://laion.ai/blog/,generator,feed_laion.xml
 neurips,https://blog.neurips.cc/,native_rss,https://blog.neurips.cc/feed/
 neuronpedia,https://www.neuronpedia.org/blog,generator,feed_neuronpedia.xml
-suleyman,https://mustafa-suleyman.ai/#writing,needs_selenium,JS-rendered site
+suleyman,https://mustafa-suleyman.ai/#writing,generator,feed_suleyman.xml (Selenium)
 transformer-circuits,https://transformer-circuits.pub/,generator,feed_transformer_circuits.xml

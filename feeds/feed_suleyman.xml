@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Mustafa Suleyman - Writing</title>
+    <link>https://mustafa-suleyman.ai/#writing</link>
+    <description>Writings from the Microsoft AI CEO</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Dec 2025 12:21:18 +0000</lastBuildDate>
+    <item>
+      <title>Towards Humanist Superintelligence</title>
+      <link>https://mustafa-suleyman.ai/a-humanist-future</link>
+      <description>What kind of AI does the world really want? At Microsoft AI, we're working towards Humanist Superintelligence: incredibly advanced AI capabilities that always work for, in service of, people and humanity.</description>
+      <guid isPermaLink="false">https://mustafa-suleyman.ai/a-humanist-future</guid>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>We must build AI for people; not to be a person.</title>
+      <link>https://mustafa-suleyman.ai/seemingly-conscious-ai-is-coming</link>
+      <description>I write, to think. More than anything this essay is an attempt to think through a bunch of hard, highly speculative ideas about how AI might unfold in the next few years.</description>
+      <guid isPermaLink="false">https://mustafa-suleyman.ai/seemingly-conscious-ai-is-coming</guid>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Celebrating 50 years of Microsoft and our AI future</title>
+      <link>https://mustafa-suleyman.ai/your-ai-companion</link>
+      <description>As I look back on the incredible impact that Microsoft has had over its now 50 years of relentless innovation, I’m inspired by the simplicity and power of Bill Gates’ bold ambition all those years ago...</description>
+      <guid isPermaLink="false">https://mustafa-suleyman.ai/your-ai-companion</guid>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI companions will change our lives</title>
+      <link>https://mustafa-suleyman.ai/ai-companions-will-change-our-lives</link>
+      <description>The world is changing fast. Things feel uncertain. Your to-do list seems to spiral unendingly. Whether we’re at work or at home, with friends, colleagues, or families, our lives feel stretched and str...</description>
+      <guid isPermaLink="false">https://mustafa-suleyman.ai/ai-companions-will-change-our-lives</guid>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A more personal AI for all</title>
+      <link>https://mustafa-suleyman.ai/an-ai-companion-for-everyone</link>
+      <description>We’re living through a technological paradigm shift. In a few short years, our computers have learned to speak our languages, see what we see and hear what we hear.</description>
+      <guid isPermaLink="false">https://mustafa-suleyman.ai/an-ai-companion-for-everyone</guid>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Containment for AI - how to adapt a Cold War strategy to a new threat</title>
+      <link>https://mustafa-suleyman.ai/containment-for-ai</link>
+      <description>The last two years have seen startling advances in artificial intelligence. The next few years promise far more, with larger and more efficient models, capable of real creativity and complicated plann...</description>
+      <guid isPermaLink="false">https://mustafa-suleyman.ai/containment-for-ai</guid>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>We need an AI equivalent of the IPCC</title>
+      <link>https://mustafa-suleyman.ai/we-need-an-ai-equivalent-of-the-ipcc</link>
+      <description>AI is here. Now comes the hard part: learning how to manage and govern it. As large language models have exploded in popularity and capability over the past year, safety concerns have become dominant...</description>
+      <guid isPermaLink="false">https://mustafa-suleyman.ai/we-need-an-ai-equivalent-of-the-ipcc</guid>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Technology’s unintended consequences require a "containment" solution. But how?</title>
+      <link>https://mustafa-suleyman.ai/unintended-consequences-require-a-containment-solution</link>
+      <description>Alan Turing and Gordon Moore could never have predicted, let alone altered the rise of, social media, memes, Wikipedia, or cyberattacks.</description>
+      <guid isPermaLink="false">https://mustafa-suleyman.ai/unintended-consequences-require-a-containment-solution</guid>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI can be an extraordinary force for good - if it’s contained</title>
+      <link>https://mustafa-suleyman.ai/ai-can-be-an-extraordinary-force-for-good-if-it-is-contained</link>
+      <description>No one has a plan for regulating AI yet. These are the questions that leaders must ask to contain the coming wave. In a quaint Regency-era office overlooking London’s Russell Square, I co-founded a co...</description>
+      <guid isPermaLink="false">https://mustafa-suleyman.ai/ai-can-be-an-extraordinary-force-for-good-if-it-is-contained</guid>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ban the use of AI in elections - right now</title>
+      <link>https://mustafa-suleyman.ai/ban-the-use-of-ai-in-elections-right-now</link>
+      <description>2024 could be one of the most pivotal years in American history. As the founder of an AI company, I must warn that it shouldn’t be because of AI.</description>
+      <guid isPermaLink="false">https://mustafa-suleyman.ai/ban-the-use-of-ai-in-elections-right-now</guid>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How the AI revolution will reshape the world</title>
+      <link>https://mustafa-suleyman.ai/how-the-ai-revolution-will-reshape-the-world</link>
+      <description>We are about to see the greatest redistribution of power in history. Over millennia, humanity has been shaped by successive waves of technology.</description>
+      <guid isPermaLink="false">https://mustafa-suleyman.ai/how-the-ai-revolution-will-reshape-the-world</guid>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI power paradox</title>
+      <link>https://mustafa-suleyman.ai/the-ai-power-paradox</link>
+      <description>It’s 2035, and artificial intelligence is everywhere. AI systems run hospitals, operate airlines, and battle each other in the courtroom.</description>
+      <guid isPermaLink="false">https://mustafa-suleyman.ai/the-ai-power-paradox</guid>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>My new Turing test would see if AI can make $1 million</title>
+      <link>https://mustafa-suleyman.ai/my-new-turing-test</link>
+      <description>AI systems are increasingly everywhere and are becoming more powerful almost by the day. But even as they become ever more ubiquitous and do more, how can we know if a machine is truly “intelligent”?</description>
+      <guid isPermaLink="false">https://mustafa-suleyman.ai/my-new-turing-test</guid>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why create personal AI?</title>
+      <link>https://mustafa-suleyman.ai/why-create-personal-ai</link>
+      <description>Why create a personal AI? It’s a fair question. One that is perhaps not asked, let alone answered, often enough. For context, it’s worth stepping back and thinking about how consumer software has impa...</description>
+      <guid isPermaLink="false">https://mustafa-suleyman.ai/why-create-personal-ai</guid>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An inflection point</title>
+      <link>https://mustafa-suleyman.ai/an-inflection-point</link>
+      <description>For all of computer history, we have had to learn the language of computers. With the coming wave of AI, computers will learn to speak ours.</description>
+      <guid isPermaLink="false">https://mustafa-suleyman.ai/an-inflection-point</guid>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Humans and AI will understand each other better than ever</title>
+      <link>https://mustafa-suleyman.ai/humans-and-ai-understanding</link>
+      <description>Artificial intelligence has promised much, but there has been something holding it back from being used successfully by billions of people: a frustrating struggle for humans and machines to understand...</description>
+      <guid isPermaLink="false">https://mustafa-suleyman.ai/humans-and-ai-understanding</guid>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>In 2019, we’ll come together in the pursuit of ethical tech</title>
+      <link>https://mustafa-suleyman.ai/the-pursuit-of-ethical-tech</link>
+      <description>In 2019, we will develop global arenas to manage the risks and realise the potential of AI. For decades, optimists have tried to build digital technology that has empowered people to create a better w...</description>
+      <guid isPermaLink="false">https://mustafa-suleyman.ai/the-pursuit-of-ethical-tech</guid>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI offers a unique opportunity for social progress</title>
+      <link>https://mustafa-suleyman.ai/ai-offers-a-unique-opportunity-for-social-progress</link>
+      <description>As a global community, we’ve made stunning strides in recent decades, tackling some of the world’s cruellest tragedies. Consider one: child mortality.</description>
+      <guid isPermaLink="false">https://mustafa-suleyman.ai/ai-offers-a-unique-opportunity-for-social-progress</guid>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepMind’s Mustafa Suleyman - in 2018, AI will gain a moral compass</title>
+      <link>https://mustafa-suleyman.ai/ai-will-gain-a-moral-compass</link>
+      <description>Humanity faces a wide range of challenges that are characterised by extreme complexity, from climate change to feeding and providing healthcare for an ever-expanding global population.</description>
+      <guid isPermaLink="false">https://mustafa-suleyman.ai/ai-will-gain-a-moral-compass</guid>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AP covered Microsoft’s 50th anniversary and the launch of all the latest features on Copilot. We went deep on this platform shift - and recipes for bolognese!</title>
+      <link>https://apnews.com/article/microsoft-50th-ai-ceo-mustafa-suleyman-copilot-e7d217f5d9ca9c40929570da2fff734a</link>
+      <description>AP covered Microsoft’s 50th anniversary and the launch of all the latest features on Copilot. We went deep on this platform shift - and recipes for bolognese!</description>
+      <guid isPermaLink="false">https://apnews.com/article/microsoft-50th-ai-ceo-mustafa-suleyman-copilot-e7d217f5d9ca9c40929570da2fff734a</guid>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>I was on NPR to talk about AI’s evolution from my early days to the new era of companions.</title>
+      <link>https://www.npr.org/2024/12/20/g-s1177-38654/ai-pioneer-mustafa-suleyman-shares-his-vision-for-the-future-of-ai</link>
+      <description>I was on NPR to talk about AI’s evolution from my early days to the new era of companions.</description>
+      <guid isPermaLink="false">https://www.npr.org/2024/12/20/g-s1177-38654/ai-pioneer-mustafa-suleyman-shares-his-vision-for-the-future-of-ai</guid>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>I sat down with CNN’s Audie Cornish to talk about AI’s guardrails, trust and the decisions we have to face. Here’s a snapshot.</title>
+      <link>https://edition.cnn.com/2025/04/11/business/video/mustafa-suleyman-ai-guardrails-audie-cornish</link>
+      <description>I sat down with CNN’s Audie Cornish to talk about AI’s guardrails, trust and the decisions we have to face. Here’s a snapshot.</description>
+      <guid isPermaLink="false">https://edition.cnn.com/2025/04/11/business/video/mustafa-suleyman-ai-guardrails-audie-cornish</guid>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>I gave an interview to Hypebeast about building Copilot and how we are all going to use an AI companion.</title>
+      <link>https://hypebeast.com/2024/12/interview-mustafa-suleyman-microsoft-ai-ceo-technology-impact-on-culture</link>
+      <description>I gave an interview to Hypebeast about building Copilot and how we are all going to use an AI companion.</description>
+      <guid isPermaLink="false">https://hypebeast.com/2024/12/interview-mustafa-suleyman-microsoft-ai-ceo-technology-impact-on-culture</guid>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>I’ve always enjoyed Nilay’s podcasts, so it was fun to be on his show talking about how the future of the web is conversational and interactive.</title>
+      <link>https://www.theverge.com/24314821/microsoft-ai-ceo-mustafa-suleyman-google-deepmind-openai-inflection-agi-decoder-podcast</link>
+      <description>I’ve always enjoyed Nilay’s podcasts, so it was fun to be on his show talking about how the future of the web is conversational and interactive.</description>
+      <guid isPermaLink="false">https://www.theverge.com/24314821/microsoft-ai-ceo-mustafa-suleyman-google-deepmind-openai-inflection-agi-decoder-podcast</guid>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

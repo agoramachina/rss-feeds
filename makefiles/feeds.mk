@@ -163,6 +163,13 @@ feeds_laion: ## Generate RSS feed for LAION Blog
 	$(Q)python feed_generators/laion_blog.py
 	$(call print_success,LAION feed generated)
 
+.PHONY: feeds_suleyman
+feeds_suleyman: ## Generate RSS feed for Mustafa Suleyman's Writing (requires Selenium)
+	$(call check_venv)
+	$(call print_info,Generating Suleyman feed)
+	$(Q)python feed_generators/suleyman_blog.py
+	$(call print_success,Suleyman feed generated)
+
 .PHONY: clean_feeds
 clean_feeds: ## Clean generated RSS feed files
 	$(call print_warning,Removing generated RSS feeds)
