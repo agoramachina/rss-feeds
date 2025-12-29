@@ -135,6 +135,13 @@ feeds_windsurf_next_changelog: ## Generate RSS feed for Windsurf Next Changelog
 	$(Q)python feed_generators/windsurf_next_changelog.py
 	$(call print_success,Windsurf Next Changelog feed generated)
 
+.PHONY: feeds_transformer_circuits
+feeds_transformer_circuits: ## Generate RSS feed for Transformer Circuits Thread
+	$(call check_venv)
+	$(call print_info,Generating Transformer Circuits feed)
+	$(Q)python feed_generators/transformer_circuits_blog.py
+	$(call print_success,Transformer Circuits feed generated)
+
 .PHONY: clean_feeds
 clean_feeds: ## Clean generated RSS feed files
 	$(call print_warning,Removing generated RSS feeds)
