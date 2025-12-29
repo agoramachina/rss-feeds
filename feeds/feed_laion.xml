@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>LAION Blog</title>
+    <link>https://laion.ai/blog/</link>
+    <description>Open source AI research and datasets</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Dec 2025 11:20:38 +0000</lastBuildDate>
+    <item>
+      <title>Open-sci-ref 0.01: open baselines for language model and dataset comparison</title>
+      <link>https://laion.ai/blog/open-sci-ref-001</link>
+      <description>By Marianna Nezhurina, Joerg Franke, David Salinas, Jenia Jitsev; open-sci collective, openEuroLLM team, LAION</description>
+      <guid isPermaLink="false">https://laion.ai/blog/open-sci-ref-001</guid>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Game Reasoning Arena: Inside the Mind of AI: How LLMs Think, Strategize, and Compete in Real-Time</title>
+      <link>https://laion.ai/blog/reasoning_game_arena_blog_post</link>
+      <description>By Lucia Cipolina-Kun, Marianna Nezhurina, Jenia Jitsev</description>
+      <guid isPermaLink="false">https://laion.ai/blog/reasoning_game_arena_blog_post</guid>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Do They See What We See?</title>
+      <link>https://laion.ai/blog/do-they-see-what-we-see</link>
+      <description>By LAION</description>
+      <guid isPermaLink="false">https://laion.ai/blog/do-they-see-what-we-see</guid>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing BUD-E 1.0: AI-Assisted Education for Everyone</title>
+      <link>https://laion.ai/blog/bud-e-release</link>
+      <description>By LAION</description>
+      <guid isPermaLink="false">https://laion.ai/blog/bud-e-release</guid>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LAION-DISCO-12M</title>
+      <link>https://laion.ai/blog/laion-disco-12m</link>
+      <description>By LAION e.V.</description>
+      <guid isPermaLink="false">https://laion.ai/blog/laion-disco-12m</guid>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LAION AI/oneAPI Center of Excellence for Personalized AI Education</title>
+      <link>https://laion.ai/blog/laion-intel-cooperation</link>
+      <description>By LAION e.V.</description>
+      <guid isPermaLink="false">https://laion.ai/blog/laion-intel-cooperation</guid>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Releasing Re-LAION-5B: transparent iteration on LAION-5B with additional safety fixes</title>
+      <link>https://laion.ai/blog/relaion-5b</link>
+      <description>By LAION e.V.</description>
+      <guid isPermaLink="false">https://laion.ai/blog/relaion-5b</guid>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BUD-E: Enhancing AI Voice Assistants’ Conversational Quality, Naturalness and Empathy</title>
+      <link>https://laion.ai/blog/bud-e</link>
+      <description>By LAION</description>
+      <guid isPermaLink="false">https://laion.ai/blog/bud-e</guid>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LAION POP: 600,000 high-resolution images with detailed descriptions</title>
+      <link>https://laion.ai/blog/laion-pop</link>
+      <description>By Christoph Schuhmann, Peter Bevan</description>
+      <guid isPermaLink="false">https://laion.ai/blog/laion-pop</guid>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open Empathic Launch</title>
+      <link>https://laion.ai/blog/open-empathic</link>
+      <description>By Christoph, Knoriy, Robert</description>
+      <guid isPermaLink="false">https://laion.ai/blog/open-empathic</guid>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strategic Game Datasets for Enhancing AI Planning: An Invitation for Collaborative Research</title>
+      <link>https://laion.ai/blog/strategic-game-dataset</link>
+      <description>By Christoph Schuhmann &amp; Qi Sun</description>
+      <guid isPermaLink="false">https://laion.ai/blog/strategic-game-dataset</guid>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CLARA: Advancing Machines in Understanding Speech Nuances</title>
+      <link>https://laion.ai/blog/clara-release</link>
+      <description>By Knoriy, Christoph, Robert</description>
+      <guid isPermaLink="false">https://laion.ai/blog/clara-release</guid>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LeoLM: Igniting German-Language LLM Research</title>
+      <link>https://laion.ai/blog/leo-lm</link>
+      <description>By Björn Plüster</description>
+      <guid isPermaLink="false">https://laion.ai/blog/leo-lm</guid>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing OpenLM</title>
+      <link>https://laion.ai/blog/open-lm</link>
+      <description>By OpenLM team</description>
+      <guid isPermaLink="false">https://laion.ai/blog/open-lm</guid>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Towards a transparent AI Future: The Call for less regulatory hurdles on Open-Source AI in Europe</title>
+      <link>https://laion.ai/blog/transparent-ai</link>
+      <description>By LAION</description>
+      <guid isPermaLink="false">https://laion.ai/blog/transparent-ai</guid>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LAION Triumphs at the Falling Walls Science Breakthrough of the Year 2023 Awards</title>
+      <link>https://laion.ai/blog/falling-walls-2023</link>
+      <description>By Christoph, Jenia, Robert</description>
+      <guid isPermaLink="false">https://laion.ai/blog/falling-walls-2023</guid>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing VisIT-Bench, a new benchmark for instruction-following vision-language models inspired by real-world use</title>
+      <link>https://laion.ai/blog/visit_bench</link>
+      <description>By Yonatan Bitton</description>
+      <guid isPermaLink="false">https://laion.ai/blog/visit_bench</guid>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Objaverse-XL: An Open Dataset of Over 10 Million 3D Objects</title>
+      <link>https://laion.ai/blog/objaverse-xl</link>
+      <description>By Matt Deitke</description>
+      <guid isPermaLink="false">https://laion.ai/blog/objaverse-xl</guid>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>video2dataset: A simple tool for large video dataset curation</title>
+      <link>https://laion.ai/blog/video2dataset</link>
+      <description>By Maciej Kilian</description>
+      <guid isPermaLink="false">https://laion.ai/blog/video2dataset</guid>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenFlamingo v2: New Models and Enhanced Training Setup</title>
+      <link>https://laion.ai/blog/open-flamingo-v2</link>
+      <description>By Anas Awadalla* and Irena Gao*</description>
+      <guid isPermaLink="false">https://laion.ai/blog/open-flamingo-v2</guid>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing DataComp: In search of the next generation of multimodal datasets</title>
+      <link>https://laion.ai/blog/datacomp</link>
+      <description>By Gabriel Ilharco</description>
+      <guid isPermaLink="false">https://laion.ai/blog/datacomp</guid>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new Paella: Simple &amp; Efficient Text-To-Image generation</title>
+      <link>https://laion.ai/blog/paella</link>
+      <description>By Dominic Rampas and Pablo Pernias</description>
+      <guid isPermaLink="false">https://laion.ai/blog/paella</guid>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Petition for keeping up the progress tempo on AI research while securing its transparency and safety.</title>
+      <link>https://laion.ai/blog/petition</link>
+      <description>By LAION.ai</description>
+      <guid isPermaLink="false">https://laion.ai/blog/petition</guid>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing OpenFlamingo: An open-source framework for training vision-language models with in-context learning</title>
+      <link>https://laion.ai/blog/open-flamingo</link>
+      <description>By Anas Awadalla and Irena Gao</description>
+      <guid isPermaLink="false">https://laion.ai/blog/open-flamingo</guid>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The OIG Dataset</title>
+      <link>https://laion.ai/blog/oig-dataset</link>
+      <description>By By Huu Nguyen -  Ontocord.ai, Sameer Suri, Ken Tsui , Shahules786, Together.xyz team, and Christoph Schuhmann - LAION.ai</description>
+      <guid isPermaLink="false">https://laion.ai/blog/oig-dataset</guid>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Training Contrastive Captioners</title>
+      <link>https://laion.ai/blog/coca</link>
+      <description>By Giovanni Puccetti, Maciej Kilian, Romain Beaumont</description>
+      <guid isPermaLink="false">https://laion.ai/blog/coca</guid>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clip-Retrieval Update: H-14 Index &amp; SLURM Inference</title>
+      <link>https://laion.ai/blog/h14_clip_retrieval</link>
+      <description>By no usr</description>
+      <guid isPermaLink="false">https://laion.ai/blog/h14_clip_retrieval</guid>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reaching 80% zero-shot accuracy with OpenCLIP: ViT-G/14 trained on LAION-2B</title>
+      <link>https://laion.ai/blog/giant-openclip</link>
+      <description>By Mitchell Wortsman</description>
+      <guid isPermaLink="false">https://laion.ai/blog/giant-openclip</guid>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collaboration between LAION and the Stable Horde</title>
+      <link>https://laion.ai/blog/laion-stable-horde</link>
+      <description>By Konstantinos Thoukydidis, hlky</description>
+      <guid isPermaLink="false">https://laion.ai/blog/laion-stable-horde</guid>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Laion coco: 600M synthetic captions from Laion2B-en</title>
+      <link>https://laion.ai/blog/laion-coco</link>
+      <description>By Christoph Schuhmann, Andreas Köpf, Richard Vencu, Theo Coombes, Romain Beaumont</description>
+      <guid isPermaLink="false">https://laion.ai/blog/laion-coco</guid>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Laion translated: 3B captions translated to English from laion5B</title>
+      <link>https://laion.ai/blog/laion-translated</link>
+      <description>By Marianna Nezhurina, Romain Beaumont, Richard Vencu and Christoph Schuhmann</description>
+      <guid isPermaLink="false">https://laion.ai/blog/laion-translated</guid>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Large scale openCLIP: L/14, H/14 and g/14 trained on LAION-2B</title>
+      <link>https://laion.ai/blog/large-openclip</link>
+      <description>By Romain Beaumont</description>
+      <guid isPermaLink="false">https://laion.ai/blog/large-openclip</guid>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LAION-Aesthetics</title>
+      <link>https://laion.ai/blog/laion-aesthetics</link>
+      <description>By Christoph Schuhmann</description>
+      <guid isPermaLink="false">https://laion.ai/blog/laion-aesthetics</guid>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LAION-5B: A NEW ERA OF OPEN LARGE-SCALE MULTI-MODAL DATASETS</title>
+      <link>https://laion.ai/blog/laion-5b</link>
+      <description>By Romain Beaumont</description>
+      <guid isPermaLink="false">https://laion.ai/blog/laion-5b</guid>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LAION-400-MILLION OPEN DATASET</title>
+      <link>https://laion.ai/blog/laion-400-open-dataset</link>
+      <description>By Christoph Schuhmann</description>
+      <guid isPermaLink="false">https://laion.ai/blog/laion-400-open-dataset</guid>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

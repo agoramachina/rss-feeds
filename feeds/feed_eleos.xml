@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Eleos AI Research</title>
+    <link>https://eleosai.org/research/</link>
+    <description>AI safety and welfare research from Eleos AI</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Dec 2025 11:17:34 +0000</lastBuildDate>
+    <item>
+      <title>Show Notes: Eleos on Bloomberg's Odd Lots</title>
+      <link>https://eleosai.org/post/odd-lots-show-notes</link>
+      <description>Corporate governance, phenomenal consciousness, and stinky stuff</description>
+      <guid isPermaLink="false">https://eleosai.org/post/odd-lots-show-notes</guid>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why it makes sense to let Claude exit conversations</title>
+      <link>https://eleosai.org/post/why-it-make-sense-to-let-claude-exit-conversations</link>
+      <description>Prudence and precedent in AI welfare</description>
+      <guid isPermaLink="false">https://eleosai.org/post/why-it-make-sense-to-let-claude-exit-conversations</guid>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why model self-reports are insufficient—and why we studied them anyway</title>
+      <link>https://eleosai.org/post/claude-4-interview-notes</link>
+      <description>Notes on Claude 4 model welfare interviews</description>
+      <guid isPermaLink="false">https://eleosai.org/post/claude-4-interview-notes</guid>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eleos commends Anthropic model welfare efforts</title>
+      <link>https://eleosai.org/post/eleos-commends-anthropic-model-welfare-efforts</link>
+      <description>Eleos AI Research congratulates Kyle Fish and Anthropic on their announcement of a new research program to investigate potential AI consciousness and welfare. We hope that they will continue to invest in this area, and urge other frontier labs to follow Anthropic’s lead.</description>
+      <guid isPermaLink="false">https://eleosai.org/post/eleos-commends-anthropic-model-welfare-efforts</guid>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Research priorities for AI welfare</title>
+      <link>https://eleosai.org/post/research-priorities-for-ai-welfare</link>
+      <description>As AI systems become more sophisticated, understanding and addressing their potential welfare becomes increasingly important. At Eleos AI Research, we've identified five key research priorities: developing concrete welfare interventions, establishing human-AI cooperation frameworks, leveraging AI pr</description>
+      <guid isPermaLink="false">https://eleosai.org/post/research-priorities-for-ai-welfare</guid>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI welfare organization Eleos expands team with hires from OpenAI and Oxford</title>
+      <link>https://eleosai.org/post/ai-welfare-organization-eleos-expands-team-with-hires-from-openai-and-oxford</link>
+      <description>Eleos AI Research welcomes Rosie Campbell, former Policy Frontiers lead at OpenAI, and Patrick Butlin, AI consciousness researcher from the Global Priorities Institute at Oxford University, to strengthen their work on AI sentience and welfare. Campbell joins as Director of Special Projects, while Bu</description>
+      <guid isPermaLink="false">https://eleosai.org/post/ai-welfare-organization-eleos-expands-team-with-hires-from-openai-and-oxford</guid>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Key concepts and current beliefs about AI moral patienthood</title>
+      <link>https://eleosai.org/post/key-concepts-and-current-beliefs-about-ai-moral-patienthood</link>
+      <description>The concepts and views that guide our research and strategy.</description>
+      <guid isPermaLink="false">https://eleosai.org/post/key-concepts-and-current-beliefs-about-ai-moral-patienthood</guid>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Working paper: key strategic considerations for taking action on AI welfare</title>
+      <link>https://eleosai.org/post/working-paper-key-strategic-considerations-for-taking-action-on-ai-welfare</link>
+      <description>Eleos outlines the key strategic considerations that we consider in order to take near-term action on AI welfare while maintaining focus on long-term outcomes.</description>
+      <guid isPermaLink="false">https://eleosai.org/post/working-paper-key-strategic-considerations-for-taking-action-on-ai-welfare</guid>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Working paper: review of AI welfare interventions</title>
+      <link>https://eleosai.org/post/working-paper-review-of-ai-welfare-interventions</link>
+      <description>Recommendations for concrete action on AI welfare</description>
+      <guid isPermaLink="false">https://eleosai.org/post/working-paper-review-of-ai-welfare-interventions</guid>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New report: Taking AI Welfare Seriously</title>
+      <link>https://eleosai.org/post/taking-ai-welfare-seriously</link>
+      <description>Our new report argues that there is a realistic possibility of consciousness and/or robust agency—and thus moral significance—in near-future AI systems, and makes recommendations for AI companies. (Joint output with the NYU Center for Mind, Ethics, and Policy.)</description>
+      <guid isPermaLink="false">https://eleosai.org/post/taking-ai-welfare-seriously</guid>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New AI welfare report coming soon</title>
+      <link>https://eleosai.org/post/new-ai-welfare-report-coming-soon</link>
+      <description>A comprehensive analysis of potential AI welfare and moral patienthood</description>
+      <guid isPermaLink="false">https://eleosai.org/post/new-ai-welfare-report-coming-soon</guid>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experts Who Say That AI Welfare is a Serious Near-term Possibility</title>
+      <link>https://eleosai.org/post/experts-who-say-that-ai-welfare-is-a-serious-near-term-possibility</link>
+      <description>A list of researchers who either explicitly claim that AI systems might have moral status soon, or assert something that strongly implies this view.</description>
+      <guid isPermaLink="false">https://eleosai.org/post/experts-who-say-that-ai-welfare-is-a-serious-near-term-possibility</guid>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

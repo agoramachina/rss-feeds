@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Neuronpedia Blog</title>
+    <link>https://www.neuronpedia.org/blog</link>
+    <description>Neural network interpretability research and updates</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Dec 2025 11:18:19 +0000</lastBuildDate>
+    <item>
+      <title>Llama 3.3 70B, Temporal Feature Analysis, Featured Research, gpt-oss-20b, and *a lot more*</title>
+      <link>https://www.neuronpedia.org/blog/fall-update</link>
+      <description>We Waited Too Long to Release an Update Post 😅</description>
+      <guid isPermaLink="false">https://www.neuronpedia.org/blog/fall-update</guid>
+    </item>
+    <item>
+      <title>Collaborating on Circuits, New Graph Features, and a Fellowship Opportunity</title>
+      <link>https://www.neuronpedia.org/blog/interp-orgs-assemble</link>
+      <description>Interpretability Orgs, Assemble! 📜🧠🔥🗽🔍</description>
+      <guid isPermaLink="false">https://www.neuronpedia.org/blog/interp-orgs-assemble</guid>
+    </item>
+    <item>
+      <title>Circuit Tracer + New Auto-Interp Method</title>
+      <link>https://www.neuronpedia.org/blog/circuit-tracer</link>
+      <description>Neuronpedia's First Anthropic Collaboration</description>
+      <guid isPermaLink="false">https://www.neuronpedia.org/blog/circuit-tracer</guid>
+    </item>
+    <item>
+      <title>New Features, Tools, and Our Podcast: The Babble</title>
+      <link>https://www.neuronpedia.org/blog/bunch-of-updates</link>
+      <description>TopK By Token Search, Matryoshka SAEs, Probity, and Auto-Interp with Latest GPTs/Claudes</description>
+      <guid isPermaLink="false">https://www.neuronpedia.org/blog/bunch-of-updates</guid>
+    </item>
+    <item>
+      <title>Neuronpedia is Now Open Source</title>
+      <link>https://www.neuronpedia.org/blog/neuronpedia-is-now-open-source</link>
+      <description>Interpretability tools for absolutely everyone, for free. Plus 4TB of datasets.</description>
+      <guid isPermaLink="false">https://www.neuronpedia.org/blog/neuronpedia-is-now-open-source</guid>
+    </item>
+  </channel>
+</rss>

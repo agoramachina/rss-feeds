@@ -142,6 +142,27 @@ feeds_transformer_circuits: ## Generate RSS feed for Transformer Circuits Thread
 	$(Q)python feed_generators/transformer_circuits_blog.py
 	$(call print_success,Transformer Circuits feed generated)
 
+.PHONY: feeds_eleos
+feeds_eleos: ## Generate RSS feed for Eleos AI Research
+	$(call check_venv)
+	$(call print_info,Generating Eleos AI feed)
+	$(Q)python feed_generators/eleos_blog.py
+	$(call print_success,Eleos AI feed generated)
+
+.PHONY: feeds_neuronpedia
+feeds_neuronpedia: ## Generate RSS feed for Neuronpedia Blog
+	$(call check_venv)
+	$(call print_info,Generating Neuronpedia feed)
+	$(Q)python feed_generators/neuronpedia_blog.py
+	$(call print_success,Neuronpedia feed generated)
+
+.PHONY: feeds_laion
+feeds_laion: ## Generate RSS feed for LAION Blog
+	$(call check_venv)
+	$(call print_info,Generating LAION feed)
+	$(Q)python feed_generators/laion_blog.py
+	$(call print_success,LAION feed generated)
+
 .PHONY: clean_feeds
 clean_feeds: ## Clean generated RSS feed files
 	$(call print_warning,Removing generated RSS feeds)
