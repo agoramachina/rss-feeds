@@ -86,6 +86,7 @@ Use @cmd_rss_feed_generator.md to convert @<html_file>.html to a RSS feed for <b
 ## Ideas
 
 - **X RSS Feed**: Going to `x.com/{USER}/index.xml` should give an RSS feed of the user's tweets.
+- **Zotero Integration**: Write a script for the [Zotero Actions and Tags](https://github.com/windingwind/zotero-actions-tags) plugin to automatically fetch and import RSS feed items into Zotero library.
 
 ## How It Works
 
