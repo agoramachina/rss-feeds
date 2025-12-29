@@ -94,7 +94,7 @@ You can trigger feed regeneration automatically when opening Zotero using the [Z
    - Generate a new token with `repo` scope (needed to trigger workflows)
 
 2. **Configure the script**
-   - Copy `feed_generators/zotero-sync.js` to your local machine
+   - Copy `extras/zotero-sync.js` to your local machine
    - Replace `YOUR_GITHUB_TOKEN_HERE` with your token
 
 3. **Add to Zotero Actions and Tags**
